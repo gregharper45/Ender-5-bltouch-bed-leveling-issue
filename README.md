@@ -1,0 +1,1 @@
+# Ender-5-bltouch-bed-leveling-issue.  bed leveling no longer probes the entire bed.  just 1/3 of y access is being probed?  Added bltouch to SKR MINI E3V2 board. Updated firmware with marlin 2.0 bugfix configuratin downloaded from github. any suggestions
